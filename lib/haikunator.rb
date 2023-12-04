@@ -34,6 +34,7 @@ module Haikunator
         adorable
         adventurous
         affectionate
+        agile
         alluring
         amazing
         ambitious
@@ -92,6 +93,7 @@ module Haikunator
         cultured
         curious
         damp
+        dapper
         dark
         dashing
         dawn
@@ -129,6 +131,7 @@ module Haikunator
         enthusiastic
         ethereal
         euphoric
+        excellent
         exciting
         exhilarating
         experienced
@@ -143,6 +146,7 @@ module Haikunator
         fascinating
         fashionable
         fearless
+        feisty
         fierce
         flexible
         floral
@@ -162,6 +166,7 @@ module Haikunator
         gossamer
         graceful
         gracious
+        great
         green
         halcyon
         handsome
@@ -294,7 +299,9 @@ module Haikunator
         still
         strong
         summer
+        superb
         supportive
+        svelte
         talented
         tenacious
         tender
@@ -315,6 +322,7 @@ module Haikunator
         victorious
         visionary
         vivacious
+        vivid
         wandering
         weathered
         whispering
