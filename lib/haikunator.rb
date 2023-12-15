@@ -12,9 +12,10 @@ module Haikunator
     def build(token_range, delimiter)
       sections = [
         adjectives[random_seed % adjectives.length],
-        nouns[random_seed % nouns.length],
-        token(token_range)
+        nouns[random_seed % nouns.length]
       ]
+      sections.shuffle!
+      sections << token(token_range)
 
       sections.compact.join(delimiter)
     end
